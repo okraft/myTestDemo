@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "优惠码管理",
+    "attributes": {
+      "url": "admin/coupon/rules"
+    },
+    children: [{
+			text: 'Item11'
+		},{
+			text: 'Item12'
+		}]
+  }
+]

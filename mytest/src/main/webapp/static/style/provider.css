@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+.header_r{width:1000px;height:80px;margin:0 auto;overflow:hidden;}
+.header_r h1{float:left;color:#666;font-size:12px;display:none;}
+.a_logo{width:235px;height:80px;float:left;}
+.logo{width:135px;height:50px;margin-top:18px;margin-left:97px;display:inline-block;background:url(../images/tingyun_logo.png) no-repeat;}
+.header_r_tit{float:left;font-size:20px;height:73px;padding-top:7px;line-height:73px;padding-left:24px;font-family:Microsoft YaHei;}
+#center_r_bj{width:100%;height:100%;background:url(../images/center_r_bj.jpg) top center;background-attachment:fixed;border-top:1px solid #e3e3e3;font-family:Microsoft YaHei;color:#333;}
+.center_r{width:760px;margin:0 auto;font-size:16px;} 
+.center_r_layout1{font-size:16px;line-height:26px;padding:30px 0;color:#4599ed;}
+.center_r_layout2{width:758px;height:458px;padding-top:50px;border:1px solid #fff;background:url(../images/r_layout2_bj.png);overflow:hidden;}
+.r_float{height:40px;line-height:40px;width:758px;overflow:hidden;padding-bottom:20px;}
+.r_float_left{width:115px;padding-right:15px;text-align:right;float:left;}
+.r_float_right{width:625px;height:40px;float:left;}
+.r_input{width:308px;padding-left:10px;height:38px;line-height:38px;border:1px solid #ccc;color:#ccc;float:left;font-size:16px;font-family:Microsoft YaHei;}
+.email_error{float:left;height:40px;line-height:40px;color:#ff7700;font-size:14px;padding-left:40px;background:url(../images/email_errow_bj.png) no-repeat 15px 9px;}
+.email_error a:link,.email_error a:visited{color:#ff3600;text-decoration:underline;}
+.r_input2{width:188px;height:38px;line-height:38px;padding-left:10px;border:1px solid #ccc;color:#ccc;float:left;font-family:Microsoft YaHei;font-size:16px;}
+.but_yzm{width:110px;margin-left:10px;float:left;height:40px;line-height:40px;color:#fff;font-size:14px;text-align:center;background:url(../images/r_but_bj.png) no-repeat left top;cursor:pointer;}
+.but_yzm:hover{background:url(../images/r_but_bj.png) no-repeat left -86px;} 
+.but_reg{font-size:18px;color:#fff;width:150px;text-align:center;background:url(../images/r_but_bj.png) no-repeat left -43px;float:left;cursor:pointer;} 
+.but_reg:hover{background:url(../images/r_but_bj.png) no-repeat left -129px;}
+.a_later{padding-left:24px;height:40px;line-height:40px;float:left;}
+.a_later a:link,.a_later a:visited{text-decoration:none;color:#4599ec;}
+.a_later a:hover{text-decoration:none;color:#1662ae;}
+.a_later a:active{text-decoration:none;color:#4599ec;}
+.center_r_a:link,.center_r_a:visited{text-decoration:none;color:#3598db;}
+.center_r_a:hover{text-decoration:none;color:#1662ae;}
+.center_r_a:active{text-decoration:none;color:#3598db;}
+.hr_top{width:580px;margin:0 50px 0 30px;border-bottom:1px solid #b5cde6;height:40px;line-height:40px;padding-bottom:35px;padding-left:100px;}
+.hr_bottom{width:680px;margin:0 50px 0 30px;border-top:1px solid #f5f7f8;height:60px;line-height:60px;}
+.hr_bottom .a_have,.hr_bottom .a_nohave{float:right;display:block;padding-right:20px;background:url(../images/r_but_bj.png) no-repeat right -261px;}
+.hr_bottom .a_have:hover,.hr_bottom .a_nohave:hover{background:url(../images/r_but_bj.png) no-repeat right -312px;}
+.footer_r{height:25px;width:1000px;margin:0 auto;padding:50px 0;}
+.footer_r_p{float:left;padding-left:270px;font-size:12px;}
+.footer_r_cznn{width:50px;height:13px;float:left;margin:0 4px;}
+.footer_r_baidu{width:20px;height:20px;float:left;}
+.a_nopassword{float:left;padding-left:100px;}
