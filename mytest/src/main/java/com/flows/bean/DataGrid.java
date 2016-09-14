@@ -10,7 +10,6 @@ public class DataGrid<T> {
 	private Collection<T> rows;
 	@SuppressWarnings("rawtypes")
 	private Collection footer;
-	private int i;
 
 	public long getTotal() {
 		return total;
